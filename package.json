@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@scio-labs/use-inkathon": "^0.0.1-alpha.28",
+    "@scio-labs/use-inkathon": "^0.0.1-alpha.36",
     "next": "^13.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
